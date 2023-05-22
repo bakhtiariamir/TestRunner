@@ -1,0 +1,13 @@
+{
+    "Providers" : {
+        "Name": "TinyPortal.Core",
+        "BaseAddress": "localhost:7051",
+        "Schema": "Https",
+        "Versions": [
+            {
+                "Number" : "01",
+                "Path" : "v1/api"
+            }
+        ]
+    }
+}

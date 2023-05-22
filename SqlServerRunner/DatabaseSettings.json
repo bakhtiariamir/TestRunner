@@ -1,0 +1,10 @@
+{
+    "Providers": 
+         [
+            {
+                "ConnectionName" : "Tiny.Portal",
+                "ConnectionString": "data source=185.8.175.151,1433; user id=tiny.dev; Network Library=DBMSSOCN; password=T1ny123; initial catalog=TinyPortal; Max Pool Size=200"
+            }
+        ]
+    
+}

@@ -1,0 +1,9 @@
+{
+    "Queries": [
+        {
+            "AlterColumn" : "",
+            "changeDataType" : "",
+            "ResetIdentitySeed" : "DBCC CHECKIDENT ('[{0}].[{1}]', RESEED, {2})"
+        }
+    ]
+}

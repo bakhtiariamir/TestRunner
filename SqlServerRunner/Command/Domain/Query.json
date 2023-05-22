@@ -1,0 +1,12 @@
+{
+    "Queries" : [
+        {
+            "Type":"GetAll",
+            "Query": "SELECT * FROM [System].[Domain]"
+        },
+        {
+            "Type": "GetById",
+            "Query": "SELECT * FROM [System].[Domain] WHERE Id = @Id"
+        }
+    ]
+}

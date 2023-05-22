@@ -1,0 +1,18 @@
+{
+    "Path": "system/domains",
+    "EndPoints":[
+        {
+            "Action" : "GetById",
+            "Authentication":
+            {
+                "Type" : "None"
+            },
+            "Parameters":[
+                {
+                    "Name":  "Id",
+                    "Type": "Int"
+                }
+            ]
+        }
+    ]
+}
